@@ -22,7 +22,7 @@ const vowel_counter = (text) => {
     return (foundVowels)
 }
 
-console.log('Vowels Found: ' + vowel_counter('nelsonSantos'))
+// console.log('Vowels Found: ' + vowel_counter('nelsonSantos'))
 
 
 
